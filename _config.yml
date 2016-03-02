@@ -2,9 +2,9 @@ excerpt_separator: ""
 pygments: true
 markdown: kramdown
 url: http://getaboost.github.io
-title: Get a Boost news
+title: Learning curves
 email: thisisgetaboost@gmail.com
 author: getaboost
-description: My awesome new site
+description: Figuring it all out
 paginate: 3
 google_analytics: 
