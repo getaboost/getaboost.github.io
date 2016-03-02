@@ -1,0 +1,6 @@
+---
+published: true
+title: Well.
+layout: post
+---
+Bit clever this.
